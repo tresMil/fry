@@ -1,0 +1,1318 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="URU:montecarlo tv" tvg-logo="http://photocall.tv/images/montecarlo.png" group-title="LATINOS",URU:montecarlo tv
+http://54.37.84.141:8000/live/demoleague/champions/311.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="URU:teledoce" tvg-logo="http://photocall.tv/images/teledoce.png" group-title="LATINOS",URU:teledoce
+http://54.37.84.141:8000/live/demoleague/champions/310.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:AMERICA TV" tvg-logo="http://photocall.tv/images/america.png" group-title="LATINOS",ARG:AMERICA TV
+http://54.37.84.141:8000/live/demoleague/champions/221.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:EL TRECE (web)" tvg-logo="" group-title="LATINOS",ARG:EL TRECE (web)
+http://54.37.84.141:8000/live/demoleague/champions/466.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:AMERICA 24" tvg-logo="http://photocall.tv/images/a24.png" group-title="LATINOS",ARG:AMERICA 24
+http://54.37.84.141:8000/live/demoleague/champions/5.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="LATINOS",ARG:C5N
+http://54.37.84.141:8000/live/demoleague/champions/6.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:CIUDAD MAGAZINE" tvg-logo="http://photocall.tv/images/magazine.png" group-title="LATINOS",ARG:CIUDAD MAGAZINE
+http://54.37.84.141:8000/live/demoleague/champions/2.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:CRONICA TV" tvg-logo="http://photocall.tv/images/cronica.png" group-title="LATINOS",ARG:CRONICA TV
+http://54.37.84.141:8000/live/demoleague/champions/8.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:DEPORTV AR" tvg-logo="" group-title="LATINOS",ARG:DEPORTV AR
+http://54.37.84.141:8000/live/demoleague/champions/24.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:encuentro" tvg-logo="http://photocall.tv/images/encuentro.png" group-title="LATINOS",ARG:encuentro
+http://54.37.84.141:8000/live/demoleague/champions/7.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:KZO" tvg-logo="https://www.totalmedios.com/img/noticias/2017/06/595248fb7f0bd__838x390.jpg" group-title="LATINOS",ARG:KZO
+http://54.37.84.141:8000/live/demoleague/champions/12.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:ORBE 21" tvg-logo="http://photocall.tv/images/orbe21.png" group-title="LATINOS",ARG:ORBE 21
+http://54.37.84.141:8000/live/demoleague/champions/136.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:paka paka" tvg-logo="http://www.beth.org.ar/wp-content/uploads/2015/06/Logo-Pakapaka-2.jpg" group-title="LATINOS",ARG:paka paka
+http://54.37.84.141:8000/live/demoleague/champions/1.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TN" tvg-logo="http://photocall.tv/images/tn.png" group-title="LATINOS",ARG:TN
+http://54.37.84.141:8000/live/demoleague/champions/9.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TELEFE internacional" tvg-logo="http://catrielinforma.com/wp-content/uploads/2015/02/0847_271213_g_telefe_logo_jpg_1508290738.jpg" group-title="LATINOS",ARG:TELEFE internacional
+http://54.37.84.141:8000/live/demoleague/champions/14.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TELEFE arg" tvg-logo="http://photocall.tv/images/telefe.png" group-title="LATINOS",ARG:TELEFE arg
+http://54.37.84.141:8000/live/demoleague/champions/856.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TLX" tvg-logo="https://pbs.twimg.com/profile_images/905781904368119808/NayEUHrO_400x400.jpg" group-title="LATINOS",ARG:TLX
+http://54.37.84.141:8000/live/demoleague/champions/4.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ARG:TV PUBLICA" tvg-logo="http://photocall.tv/images/tvp.png" group-title="LATINOS",ARG:TV PUBLICA
+http://54.37.84.141:8000/live/demoleague/champions/3.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="BRA:record news" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Record-news.jpg/revision/latest?cb=20120916104700" group-title="LATINOS",BRA:record news
+http://54.37.84.141:8000/live/demoleague/champions/425.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="BRA:Rede TV Brasil" tvg-logo="http://etvix.com/wp-content/uploads/2016/01/redetv.png" group-title="LATINOS",BRA:Rede TV Brasil
+http://54.37.84.141:8000/live/demoleague/champions/314.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="BRA:sbt brazil" tvg-logo="https://seeklogo.com/images/S/SBT-logo-D5896BC8BB-seeklogo.com.jpg" group-title="LATINOS",BRA:sbt brazil
+http://54.37.84.141:8000/live/demoleague/champions/420.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CL:CAMPUS TV" tvg-logo="" group-title="LATINOS",CL:CAMPUS TV
+http://54.37.84.141:8000/live/demoleague/champions/138.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CL:MEGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/2015megaoficial.png/1200px-2015megaoficial.png" group-title="LATINOS",CL:MEGA
+http://54.37.84.141:8000/live/demoleague/champions/11.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CO:EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="LATINOS",CO:EL TRECE
+http://54.37.84.141:8000/live/demoleague/champions/426.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="COL:CALI TV" tvg-logo="http://photocall.tv/images/calitv.png" group-title="LATINOS",COL:CALI TV
+http://54.37.84.141:8000/live/demoleague/champions/140.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="COL:CARACOL" tvg-logo="http://photocall.tv/images/caracol.png" group-title="LATINOS",COL:CARACOL
+http://54.37.84.141:8000/live/demoleague/champions/137.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CO:CARACOL HD" tvg-logo="http://www.prensario.net/Multimedios/imgs/10630_468.jpg" group-title="LATINOS",CO:CARACOL HD
+http://54.37.84.141:8000/live/demoleague/champions/451.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CO:caracol internacional HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2012_CARACOL_TV_Internacional_logo.svg/1024px-2012_CARACOL_TV_Internacional_logo.svg.png" group-title="LATINOS",CO:caracol internacional HD
+http://54.37.84.141:8000/live/demoleague/champions/450.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CO:RCN HD" tvg-logo="http://www.xtremostereo.net/wp-content/uploads/2017/01/rcn.png" group-title="LATINOS",CO:RCN HD
+http://54.37.84.141:8000/live/demoleague/champions/415.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CO:RCN NUESTRA TELE HD" tvg-logo="" group-title="LATINOS",CO:RCN NUESTRA TELE HD
+http://54.37.84.141:8000/live/demoleague/champions/902.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CO:RCN NOVELAS" tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/235837990596/medium/100/1473534756d0cc352b16d02c63bc227c251054d876.jpg" group-title="LATINOS",CO:RCN NOVELAS
+http://54.37.84.141:8000/live/demoleague/champions/234.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CO:SEÑAL COLOMBIA" tvg-logo="https://www.mintic.gov.co/portal/604/articles-55163_foto_marquesina.jpg" group-title="LATINOS",CO:SEÑAL COLOMBIA
+http://54.37.84.141:8000/live/demoleague/champions/142.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="EC:OROMAR TV" tvg-logo="" group-title="LATINOS",EC:OROMAR TV
+http://54.37.84.141:8000/live/demoleague/champions/467.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:americateve miami" tvg-logo="http://www.hispanicprblog.com/wp-content/uploads/2017/06/download1.jpg" group-title="LATINOS",LA:americateve miami
+http://54.37.84.141:8000/live/demoleague/champions/416.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:AZTECA GUATEMALA" tvg-logo="" group-title="LATINOS",LA:AZTECA GUATEMALA
+http://54.37.84.141:8000/live/demoleague/champions/132.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:telemetro panama" tvg-logo="" group-title="LATINOS",LA:telemetro panama
+http://54.37.84.141:8000/live/demoleague/champions/456.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:NEX TV panama" tvg-logo="" group-title="LATINOS",LA:NEX TV panama
+http://54.37.84.141:8000/live/demoleague/champions/449.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:RPC panama" tvg-logo="http://www.rpctv.com/header_logo.png" group-title="LATINOS",LA:RPC panama
+http://54.37.84.141:8000/live/demoleague/champions/419.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:TVN PANAMA" tvg-logo="" group-title="LATINOS",LA:TVN PANAMA
+http://54.37.84.141:8000/live/demoleague/champions/914.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:tv venezuela" tvg-logo="http://photocall.tv/images/tvv.png" group-title="LATINOS",LA:tv venezuela
+http://54.37.84.141:8000/live/demoleague/champions/320.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:WOOW TV" tvg-logo="" group-title="LATINOS",LA:WOOW TV
+http://54.37.84.141:8000/live/demoleague/champions/468.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:A3SERIES" tvg-logo="" group-title="LATINOS",LA:A3SERIES
+http://54.37.84.141:8000/live/demoleague/champions/146.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA:UNIVISION" tvg-logo="http://photocall.tv/images/univision.png" group-title="LATINOS",LA:UNIVISION
+http://54.37.84.141:8000/live/demoleague/champions/145.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO USA" tvg-logo="" group-title="LATINOS",TELEMUNDO USA
+http://54.37.84.141:8000/live/demoleague/champions/131.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO INT HD" tvg-logo="https://www.primicias24.com/wp-content/uploads/2017/03/10_TelemundoInternacional_1920x1080_2-300x200.jpg" group-title="LATINOS",TELEMUNDO INT HD
+http://54.37.84.141:8000/live/demoleague/champions/229.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX: CANAL 5" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Logotipo-Canal-5-M%C3%A9xico.png/380px-Logotipo-Canal-5-M%C3%A9xico.png" group-title="LATINOS",MEX: CANAL 5
+http://54.37.84.141:8000/live/demoleague/champions/318.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:A PLUS" tvg-logo="" group-title="LATINOS",MEX:A PLUS
+http://54.37.84.141:8000/live/demoleague/champions/125.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:AZTECA 7" tvg-logo="" group-title="LATINOS",MEX:AZTECA 7
+http://54.37.84.141:8000/live/demoleague/champions/123.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:AZTECA UNO" tvg-logo="" group-title="LATINOS",MEX:AZTECA UNO
+http://54.37.84.141:8000/live/demoleague/champions/122.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:ACUSTIK" tvg-logo="" group-title="LATINOS",MEX:ACUSTIK
+http://54.37.84.141:8000/live/demoleague/champions/474.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:azteca CORAZON" tvg-logo="https://vivoplaysbtv.s3.amazonaws.com/image/236215846604/medium/100/1473533066c6061489bc5a34c224fc184cc749ab1f.jpg" group-title="LATINOS",MEX:azteca CORAZON
+http://54.37.84.141:8000/live/demoleague/champions/452.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:UNICABLE" tvg-logo="http://www.informateahora.com/images/enero17/unicable.jpg" group-title="LATINOS",MEX:UNICABLE
+http://54.37.84.141:8000/live/demoleague/champions/319.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:azteca MUNDO" tvg-logo="http://condista.com/wp-content/uploads/2015/09/az-mundo-300x225.jpg" group-title="LATINOS",MEX:azteca MUNDO
+http://54.37.84.141:8000/live/demoleague/champions/455.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:FORO TV" tvg-logo="" group-title="LATINOS",MEX:FORO TV
+http://54.37.84.141:8000/live/demoleague/champions/130.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:LAS ESTRELLAS." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="LATINOS",MEX:LAS ESTRELLAS.
+http://54.37.84.141:8000/live/demoleague/champions/126.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:MULTIMEDIO MONTERREY" tvg-logo="" group-title="LATINOS",MEX:MULTIMEDIO MONTERREY
+http://54.37.84.141:8000/live/demoleague/champions/128.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:TELEFORMULA" tvg-logo="" group-title="LATINOS",MEX:TELEFORMULA
+http://54.37.84.141:8000/live/demoleague/champions/133.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MEX:TVMAS" tvg-logo="" group-title="LATINOS",MEX:TVMAS
+http://54.37.84.141:8000/live/demoleague/champions/127.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PE:america TV" tvg-logo="" group-title="LATINOS",PE:america TV
+http://54.37.84.141:8000/live/demoleague/champions/149.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PE:digital peru tv 1" tvg-logo="" group-title="LATINOS",PE:digital peru tv 1
+http://54.37.84.141:8000/live/demoleague/champions/135.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PE:TV PERU HD" tvg-logo="" group-title="LATINOS",PE:TV PERU HD
+http://54.37.84.141:8000/live/demoleague/champions/217.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PE:TV noticias" tvg-logo="http://www.radionacional.com.pe/sites/default/files/tvperu_7_3_2.png" group-title="LATINOS",PE:TV noticias
+http://54.37.84.141:8000/live/demoleague/champions/321.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PE:panamericana tv" tvg-logo="" group-title="LATINOS",PE:panamericana tv
+http://54.37.84.141:8000/live/demoleague/champions/150.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV" tvg-logo="" group-title="INFANTILES",BABY TV
+http://54.37.84.141:8000/live/demoleague/champions/670.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="BABY TV MX" tvg-logo="" group-title="INFANTILES",BABY TV MX
+http://54.37.84.141:8000/live/demoleague/champions/669.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="BOOMERANG" tvg-logo="https://www.cartoonbrew.com/wp-content/uploads/2017/03/boomerang_subscription.jpg" group-title="INFANTILES",BOOMERANG
+http://54.37.84.141:8000/live/demoleague/champions/88.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CATOON NETWORK" tvg-logo="" group-title="INFANTILES",CATOON NETWORK
+http://54.37.84.141:8000/live/demoleague/champions/671.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS" tvg-logo="" group-title="INFANTILES",DISCOVERY KIDS
+http://54.37.84.141:8000/live/demoleague/champions/679.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="" group-title="INFANTILES",DISNEY CHANNEL
+http://54.37.84.141:8000/live/demoleague/champions/675.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY JUNIOR" tvg-logo="" group-title="INFANTILES",DISNEY JUNIOR
+http://54.37.84.141:8000/live/demoleague/champions/674.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY XD" tvg-logo="" group-title="INFANTILES",DISNEY XD
+http://54.37.84.141:8000/live/demoleague/champions/678.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="gulli" tvg-logo="" group-title="INFANTILES",gulli
+http://54.37.84.141:8000/live/demoleague/champions/96.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO KIDS" tvg-logo="" group-title="INFANTILES",NATGEO KIDS
+http://54.37.84.141:8000/live/demoleague/champions/682.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO KIDS MX" tvg-logo="" group-title="INFANTILES",NATGEO KIDS MX
+http://54.37.84.141:8000/live/demoleague/champions/685.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NICK" tvg-logo="" group-title="INFANTILES",NICK
+http://54.37.84.141:8000/live/demoleague/champions/694.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NICK 2" tvg-logo="" group-title="INFANTILES",NICK 2
+http://54.37.84.141:8000/live/demoleague/champions/688.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JR" tvg-logo="" group-title="INFANTILES",NICK JR
+http://54.37.84.141:8000/live/demoleague/champions/691.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PJ MASK 24/7" tvg-logo="" group-title="INFANTILES",PJ MASK 24/7
+http://54.37.84.141:8000/live/demoleague/champions/861.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2000px-Tooncast_logo.svg.png" group-title="INFANTILES",tooncast
+http://54.37.84.141:8000/live/demoleague/champions/98.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="warner kid UK" tvg-logo="" group-title="INFANTILES",warner kid UK
+http://54.37.84.141:8000/live/demoleague/champions/27.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPORTS 2 AR" tvg-logo="" group-title="DEPORTES",bEIN SPORTS 2 AR
+http://54.37.84.141:8000/live/demoleague/champions/932.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPORTS 3 AR" tvg-logo="" group-title="DEPORTES",bEIN SPORTS 3 AR
+http://54.37.84.141:8000/live/demoleague/champions/933.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPORTS 4 AR" tvg-logo="" group-title="DEPORTES",bEIN SPORTS 4 AR
+http://54.37.84.141:8000/live/demoleague/champions/934.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPORTS 5 AR" tvg-logo="" group-title="DEPORTES",bEIN SPORTS 5 AR
+http://54.37.84.141:8000/live/demoleague/champions/935.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPOTRTS 6 AR" tvg-logo="" group-title="DEPORTES",bEIN SPOTRTS 6 AR
+http://54.37.84.141:8000/live/demoleague/champions/936.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPORTS 8 AR" tvg-logo="" group-title="DEPORTES",bEIN SPORTS 8 AR
+http://54.37.84.141:8000/live/demoleague/champions/938.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPORTS 9 AR" tvg-logo="" group-title="DEPORTES",bEIN SPORTS 9 AR
+http://54.37.84.141:8000/live/demoleague/champions/939.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPORTS 10 AR" tvg-logo="" group-title="DEPORTES",bEIN SPORTS 10 AR
+http://54.37.84.141:8000/live/demoleague/champions/940.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPORTS 11 eng HD" tvg-logo="" group-title="DEPORTES",bEIN SPORTS 11 eng HD
+http://54.37.84.141:8000/live/demoleague/champions/941.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="BOX NATION UK" tvg-logo="" group-title="DEPORTES",BOX NATION UK
+http://54.37.84.141:8000/live/demoleague/champions/926.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="bEIN SPORTS 12 eng HD" tvg-logo="" group-title="DEPORTES",bEIN SPORTS 12 eng HD
+http://54.37.84.141:8000/live/demoleague/champions/942.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CABLEONDA SPORTS FC" tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos-fc.png?resize=218%2C150" group-title="DEPORTES",CABLEONDA SPORTS FC
+http://54.37.84.141:8000/live/demoleague/champions/44.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CABLEONDA SPORTS" tvg-logo="https://i2.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/cos.png?fit=600%2C360" group-title="DEPORTES",CABLEONDA SPORTS
+http://54.37.84.141:8000/live/demoleague/champions/45.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CDO BASICO" tvg-logo="http://portalfutbol.cl/wp-content/uploads/cdo.jpg" group-title="DEPORTES",CDO BASICO
+http://54.37.84.141:8000/live/demoleague/champions/418.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO SPORTS COLOMBIA HD" tvg-logo="" group-title="DEPORTES",CLARO SPORTS COLOMBIA HD
+http://54.37.84.141:8000/live/demoleague/champions/608.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO SPORTS HD" tvg-logo="" group-title="DEPORTES",CLARO SPORTS HD
+http://54.37.84.141:8000/live/demoleague/champions/611.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FIGHT NETWORK HD" tvg-logo="" group-title="DEPORTES",FIGHT NETWORK HD
+http://54.37.84.141:8000/live/demoleague/champions/346.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="KOMBATE" tvg-logo="" group-title="DEPORTES",KOMBATE
+http://54.37.84.141:8000/live/demoleague/champions/214.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN ARG" tvg-logo="https://www.mmanytt.se/wp-content/uploads/2016/06/ESPN.png" group-title="DEPORTES",ESPN ARG
+http://54.37.84.141:8000/live/demoleague/champions/986.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN ARG HD" tvg-logo="" group-title="DEPORTES",ESPN ARG HD
+http://54.37.84.141:8000/live/demoleague/champions/623.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 ARG" tvg-logo="" group-title="DEPORTES",ESPN 2 ARG
+http://54.37.84.141:8000/live/demoleague/champions/613.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 2 HD ARG" tvg-logo="" group-title="DEPORTES",ESPN 2 HD ARG
+http://54.37.84.141:8000/live/demoleague/champions/614.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 AR" tvg-logo="http://www.cl3cablevision.com.ar/modules/highlighted/images/big/destacados/ESPN3.jpg" group-title="DEPORTES",ESPN 3 AR
+http://54.37.84.141:8000/live/demoleague/champions/984.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN 3 ARG HD" tvg-logo="" group-title="DEPORTES",ESPN 3 ARG HD
+http://54.37.84.141:8000/live/demoleague/champions/617.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN PLUS" tvg-logo="https://iparatodos.com.ar/uploads/canal/imagenes/ESPN+.png" group-title="DEPORTES",ESPN PLUS
+http://54.37.84.141:8000/live/demoleague/champions/985.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN PLUS HD" tvg-logo="" group-title="DEPORTES",ESPN PLUS HD
+http://54.37.84.141:8000/live/demoleague/champions/620.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN US" tvg-logo="http://4.bp.blogspot.com/-HSO_d7JsGUM/VM9dq3Dj-yI/AAAAAAAALYM/_N1a8ut-LR8/s1600/images-3.jpg" group-title="DEPORTES",ESPN US
+http://54.37.84.141:8000/live/demoleague/champions/384.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS ARG" tvg-logo="https://i.pinimg.com/originals/fd/60/53/fd60533dfc6686dd40c650e836771231.png" group-title="DEPORTES",FOX SPORTS ARG
+http://54.37.84.141:8000/live/demoleague/champions/983.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS ARG HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS ARG HD
+http://54.37.84.141:8000/live/demoleague/champions/640.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="DEPORTES",FOX SPORTS 2 ARG
+http://54.37.84.141:8000/live/demoleague/champions/979.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 ARG HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 ARG HD
+http://54.37.84.141:8000/live/demoleague/champions/628.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 3 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png" group-title="DEPORTES",FOX SPORTS 3 ARG
+http://54.37.84.141:8000/live/demoleague/champions/981.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 3 ARG HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 ARG HD
+http://54.37.84.141:8000/live/demoleague/champions/634.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS MX" tvg-logo="http://logos-vector.com/images/logo/lar/1/8/3/18378/Fox_Sports_a2531_250x250.png" group-title="DEPORTES",FOX SPORTS MX
+http://54.37.84.141:8000/live/demoleague/champions/982.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS MX HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS MX HD
+http://54.37.84.141:8000/live/demoleague/champions/637.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 MX" tvg-logo="http://webportal.nowonline.com.br/img/channels/fox_sports.png" group-title="DEPORTES",FOX SPORTS 2 MX
+http://54.37.84.141:8000/live/demoleague/champions/978.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 2 MX HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS 2 MX HD
+http://54.37.84.141:8000/live/demoleague/champions/625.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 3 MX" tvg-logo="http://static.ontvtonight.com/static/2/Open/400x300_1845/Source/44779/foxsports3.png" group-title="DEPORTES",FOX SPORTS 3 MX
+http://54.37.84.141:8000/live/demoleague/champions/980.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 3 MX HD" tvg-logo="" group-title="DEPORTES",FOX SPORTS 3 MX HD
+http://54.37.84.141:8000/live/demoleague/champions/631.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="GOLF CHANNEL UK" tvg-logo="" group-title="DEPORTES",GOLF CHANNEL UK
+http://54.37.84.141:8000/live/demoleague/champions/345.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LA LIGA TV" tvg-logo="" group-title="DEPORTES",LA LIGA TV
+http://54.37.84.141:8000/live/demoleague/champions/834.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="L´EQUIPE FR" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0003/1143/brand.gif?itok=D-couLZi" group-title="DEPORTES",L´EQUIPE FR
+http://54.37.84.141:8000/live/demoleague/champions/387.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR Formula 1 HD" tvg-logo="" group-title="DEPORTES",MOVISTAR Formula 1 HD
+http://54.37.84.141:8000/live/demoleague/champions/811.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NBA TV PARTIDOS" tvg-logo="http://nowwatchtvlive.net/wp-content/uploads/2011/07/nba_tv_ca_hd-300x112.png" group-title="DEPORTES",NBA TV PARTIDOS
+http://54.37.84.141:8000/live/demoleague/champions/39.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NFL" tvg-logo="https://st-listas.20minutos.es/images/2009-01/74020/list_640px.jpg?1231653068" group-title="DEPORTES",NFL
+http://54.37.84.141:8000/live/demoleague/champions/30.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="RED BULL TV" tvg-logo="https://1.bp.blogspot.com/-C6a3WowdZpM/Vt29q_dnYEI/AAAAAAAAE8o/N0MPtbWquBM/s1600/rbtv-logo-large.png" group-title="DEPORTES",RED BULL TV
+http://54.37.84.141:8000/live/demoleague/champions/220.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY calcio  ITA" tvg-logo="" group-title="DEPORTES",SKY calcio  ITA
+http://54.37.84.141:8000/live/demoleague/champions/957.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 1 ITA" tvg-logo="" group-title="DEPORTES",SKY SPORT 1 ITA
+http://54.37.84.141:8000/live/demoleague/champions/924.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT 2 ITA" tvg-logo="" group-title="DEPORTES",SKY SPORT 2 ITA
+http://54.37.84.141:8000/live/demoleague/champions/927.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORTS ARENA" tvg-logo="https://www.stream2watch.org/images/streams/38465/600x400/15018247838443.png" group-title="DEPORTES",SKY SPORTS ARENA
+http://54.37.84.141:8000/live/demoleague/champions/385.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKY SPORT news UK" tvg-logo="" group-title="DEPORTES",SKY SPORT news UK
+http://54.37.84.141:8000/live/demoleague/champions/966.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS TV+" tvg-logo="" group-title="DEPORTES",SPORTS TV+
+http://54.37.84.141:8000/live/demoleague/champions/848.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS TV 1" tvg-logo="" group-title="DEPORTES",SPORTS TV 1
+http://54.37.84.141:8000/live/demoleague/champions/847.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS TV 2 HD" tvg-logo="" group-title="DEPORTES",SPORTS TV 2 HD
+http://54.37.84.141:8000/live/demoleague/champions/846.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS TV 3 HD" tvg-logo="" group-title="DEPORTES",SPORTS TV 3 HD
+http://54.37.84.141:8000/live/demoleague/champions/889.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS TV 5 HD" tvg-logo="" group-title="DEPORTES",SPORTS TV 5 HD
+http://54.37.84.141:8000/live/demoleague/champions/903.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORTS HD" tvg-logo="https://canalmensajeysociedad.files.wordpress.com/2016/01/tyc-sports.png" group-title="DEPORTES",TYC SPORTS HD
+http://54.37.84.141:8000/live/demoleague/champions/219.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVISION deportes HD" tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2017/03/IMG_1834-832x447.png" group-title="DEPORTES",UNIVISION deportes HD
+http://54.37.84.141:8000/live/demoleague/champions/357.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="WWE NETWORK" tvg-logo="" group-title="DEPORTES",WWE NETWORK
+http://54.37.84.141:8000/live/demoleague/champions/809.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS" tvg-logo="" group-title="DEPORTES",WIN SPORTS
+http://54.37.84.141:8000/live/demoleague/champions/820.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="AMC" tvg-logo="" group-title="PELICULAS",AMC
+http://54.37.84.141:8000/live/demoleague/champions/758.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINECANAL" tvg-logo="" group-title="PELICULAS",CINECANAL
+http://54.37.84.141:8000/live/demoleague/champions/760.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINELATINO" tvg-logo="" group-title="PELICULAS",CINELATINO
+http://54.37.84.141:8000/live/demoleague/champions/761.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="" group-title="PELICULAS",CINEMAX
+http://54.37.84.141:8000/live/demoleague/champions/759.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DHE" tvg-logo="" group-title="PELICULAS",DHE
+http://54.37.84.141:8000/live/demoleague/champions/765.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="EUROCHANEL" tvg-logo="" group-title="PELICULAS",EUROCHANEL
+http://54.37.84.141:8000/live/demoleague/champions/766.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FMHOT HD" tvg-logo="" group-title="PELICULAS",FMHOT HD
+http://54.37.84.141:8000/live/demoleague/champions/82.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION" tvg-logo="" group-title="PELICULAS",FOX ACTION
+http://54.37.84.141:8000/live/demoleague/champions/768.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX ACTION MX" tvg-logo="" group-title="PELICULAS",FOX ACTION MX
+http://54.37.84.141:8000/live/demoleague/champions/767.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CINEMA" tvg-logo="" group-title="PELICULAS",FOX CINEMA
+http://54.37.84.141:8000/live/demoleague/champions/769.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CLASSICS" tvg-logo="" group-title="PELICULAS",FOX CLASSICS
+http://54.37.84.141:8000/live/demoleague/champions/770.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY" tvg-logo="" group-title="PELICULAS",FOX COMEDY
+http://54.37.84.141:8000/live/demoleague/champions/771.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILY" tvg-logo="" group-title="PELICULAS",FOX FAMILY
+http://54.37.84.141:8000/live/demoleague/champions/772.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="" group-title="PELICULAS",FOX MOVIES
+http://54.37.84.141:8000/live/demoleague/champions/773.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FXM" tvg-logo="" group-title="PELICULAS",FXM
+http://54.37.84.141:8000/live/demoleague/champions/775.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FXM MX" tvg-logo="" group-title="PELICULAS",FXM MX
+http://54.37.84.141:8000/live/demoleague/champions/774.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN" tvg-logo="" group-title="PELICULAS",GOLDEN
+http://54.37.84.141:8000/live/demoleague/champions/776.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PREMIER" tvg-logo="" group-title="PELICULAS",GOLDEN PREMIER
+http://54.37.84.141:8000/live/demoleague/champions/777.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="" group-title="PELICULAS",HBO
+http://54.37.84.141:8000/live/demoleague/champions/779.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2" tvg-logo="" group-title="PELICULAS",HBO 2
+http://54.37.84.141:8000/live/demoleague/champions/778.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="PELICULAS",HBO FAMILY
+http://54.37.84.141:8000/live/demoleague/champions/316.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="PELICULAS",HBO SIGNATURE
+http://54.37.84.141:8000/live/demoleague/champions/781.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS" tvg-logo="" group-title="PELICULAS",HBO PLUS
+http://54.37.84.141:8000/live/demoleague/champions/780.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="I SAT" tvg-logo="" group-title="PELICULAS",I SAT
+http://54.37.84.141:8000/live/demoleague/champions/805.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MAX" tvg-logo="" group-title="PELICULAS",MAX
+http://54.37.84.141:8000/live/demoleague/champions/784.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME" tvg-logo="" group-title="PELICULAS",MAX PRIME
+http://54.37.84.141:8000/live/demoleague/champions/782.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MAX UP" tvg-logo="" group-title="PELICULAS",MAX UP
+http://54.37.84.141:8000/live/demoleague/champions/783.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIPREMIER" tvg-logo="" group-title="PELICULAS",MULTIPREMIER
+http://54.37.84.141:8000/live/demoleague/champions/785.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT CHANNEL" tvg-logo="" group-title="PELICULAS",PARAMOUNT CHANNEL
+http://54.37.84.141:8000/live/demoleague/champions/786.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE" tvg-logo="" group-title="PELICULAS",SPACE
+http://54.37.84.141:8000/live/demoleague/champions/787.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TBS" tvg-logo="" group-title="PELICULAS",TBS
+http://54.37.84.141:8000/live/demoleague/champions/788.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TCM" tvg-logo="" group-title="PELICULAS",TCM
+http://54.37.84.141:8000/live/demoleague/champions/789.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT" tvg-logo="" group-title="PELICULAS",TNT
+http://54.37.84.141:8000/live/demoleague/champions/790.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="" group-title="ENTRETENIMIENTO",A&E
+http://54.37.84.141:8000/live/demoleague/champions/697.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="" group-title="ENTRETENIMIENTO",AXN
+http://54.37.84.141:8000/live/demoleague/champions/700.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL" tvg-logo="" group-title="ENTRETENIMIENTO",COMEDY CENTRAL
+http://54.37.84.141:8000/live/demoleague/champions/708.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="E!" tvg-logo="" group-title="ENTRETENIMIENTO",E!
+http://54.37.84.141:8000/live/demoleague/champions/710.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="EL GOURMET" tvg-logo="" group-title="ENTRETENIMIENTO",EL GOURMET
+http://54.37.84.141:8000/live/demoleague/champions/711.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE" tvg-logo="" group-title="ENTRETENIMIENTO",FOX LIFE
+http://54.37.84.141:8000/live/demoleague/champions/718.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX MX" tvg-logo="" group-title="ENTRETENIMIENTO",FOX MX
+http://54.37.84.141:8000/live/demoleague/champions/721.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FX" tvg-logo="" group-title="ENTRETENIMIENTO",FX
+http://54.37.84.141:8000/live/demoleague/champions/730.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FX MX" tvg-logo="" group-title="ENTRETENIMIENTO",FX MX
+http://54.37.84.141:8000/live/demoleague/champions/727.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="GLITZ" tvg-logo="" group-title="ENTRETENIMIENTO",GLITZ
+http://54.37.84.141:8000/live/demoleague/champions/733.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HOLA TV" tvg-logo="" group-title="ENTRETENIMIENTO",HOLA TV
+http://54.37.84.141:8000/live/demoleague/champions/734.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LAS ESTRELLAS" tvg-logo="" group-title="ENTRETENIMIENTO",LAS ESTRELLAS
+http://54.37.84.141:8000/live/demoleague/champions/714.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="LIFETIME" tvg-logo="" group-title="ENTRETENIMIENTO",LIFETIME
+http://54.37.84.141:8000/live/demoleague/champions/737.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MAS CHIC SD" tvg-logo="" group-title="ENTRETENIMIENTO",MAS CHIC SD
+http://54.37.84.141:8000/live/demoleague/champions/738.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PASIONES SD" tvg-logo="" group-title="ENTRETENIMIENTO",PASIONES SD
+http://54.37.84.141:8000/live/demoleague/champions/741.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SONY SD" tvg-logo="" group-title="ENTRETENIMIENTO",SONY SD
+http://54.37.84.141:8000/live/demoleague/champions/742.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES SD" tvg-logo="" group-title="ENTRETENIMIENTO",TNT SERIES SD
+http://54.37.84.141:8000/live/demoleague/champions/747.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TRU TV SD" tvg-logo="" group-title="ENTRETENIMIENTO",TRU TV SD
+http://54.37.84.141:8000/live/demoleague/champions/750.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="" group-title="ENTRETENIMIENTO",UNIVERSAL CHANNEL
+http://54.37.84.141:8000/live/demoleague/champions/745.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER TV SD" tvg-logo="" group-title="ENTRETENIMIENTO",WARNER TV SD
+http://54.37.84.141:8000/live/demoleague/champions/754.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="DOCUMENTAL",ANIMAL PLANET
+http://54.37.84.141:8000/live/demoleague/champions/791.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="DOCUMENTAL",DISCOVERY CHANNEL
+http://54.37.84.141:8000/live/demoleague/champions/792.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HOME&HEALTH" tvg-logo="" group-title="DOCUMENTAL",DISCOVERY HOME&HEALTH
+http://54.37.84.141:8000/live/demoleague/champions/794.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER" tvg-logo="" group-title="DOCUMENTAL",DISCOVERY THEATER
+http://54.37.84.141:8000/live/demoleague/champions/795.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO" tvg-logo="" group-title="DOCUMENTAL",DISCOVERY TURBO
+http://54.37.84.141:8000/live/demoleague/champions/796.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD" tvg-logo="" group-title="DOCUMENTAL",DISCOVERY WORLD
+http://54.37.84.141:8000/live/demoleague/champions/797.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HISTORY SD" tvg-logo="" group-title="DOCUMENTAL",HISTORY SD
+http://54.37.84.141:8000/live/demoleague/champions/799.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="" group-title="DOCUMENTAL",INVESTIGATION DISCOVERY
+http://54.37.84.141:8000/live/demoleague/champions/804.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO MX" tvg-logo="" group-title="DOCUMENTAL",NATGEO MX
+http://54.37.84.141:8000/live/demoleague/champions/800.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD SD" tvg-logo="" group-title="DOCUMENTAL",NATGEO WILD SD
+http://54.37.84.141:8000/live/demoleague/champions/802.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="" group-title="DOCUMENTAL",TLC
+http://54.37.84.141:8000/live/demoleague/champions/803.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="AXN ESPAÑA" tvg-logo="" group-title="ESPAÑA",AXN ESPAÑA
+http://54.37.84.141:8000/live/demoleague/champions/894.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HOLLYWOOD" tvg-logo="" group-title="ESPAÑA",HOLLYWOOD
+http://54.37.84.141:8000/live/demoleague/champions/893.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR ACCION" tvg-logo="" group-title="ESPAÑA",MOVISTAR ACCION
+http://54.37.84.141:8000/live/demoleague/champions/892.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MOVISTAR COMEDIA" tvg-logo="" group-title="ESPAÑA",MOVISTAR COMEDIA
+http://54.37.84.141:8000/live/demoleague/champions/895.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="caballero de zodiaco 24/7" tvg-logo="" group-title="CANALES 24/7",caballero de zodiaco 24/7
+http://54.37.84.141:8000/live/demoleague/champions/851.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="GOKU TV 24/7" tvg-logo="" group-title="CANALES 24/7",GOKU TV 24/7
+http://54.37.84.141:8000/live/demoleague/champions/858.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="house 24/7" tvg-logo="" group-title="CANALES 24/7",house 24/7
+http://54.37.84.141:8000/live/demoleague/champions/860.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PELICULAS mas ESTRENO 24/7" tvg-logo="" group-title="CANALES 24/7",PELICULAS mas ESTRENO 24/7
+http://54.37.84.141:8000/live/demoleague/champions/930.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="peliculas comedia 24/7" tvg-logo="" group-title="CANALES 24/7",peliculas comedia 24/7
+http://54.37.84.141:8000/live/demoleague/champions/859.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PELICULAS MOVIES 2- 24/7" tvg-logo="" group-title="CANALES 24/7",PELICULAS MOVIES 2- 24/7
+http://54.37.84.141:8000/live/demoleague/champions/850.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="EL CHAVO 24/7" tvg-logo="" group-title="CANALES 24/7",EL CHAVO 24/7
+http://54.37.84.141:8000/live/demoleague/champions/943.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PELICULAS movies 24/7" tvg-logo="" group-title="CANALES 24/7",PELICULAS movies 24/7
+http://54.37.84.141:8000/live/demoleague/champions/911.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PELICULAS TERROR 24/7" tvg-logo="" group-title="CANALES 24/7",PELICULAS TERROR 24/7
+http://54.37.84.141:8000/live/demoleague/champions/855.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PELUCULAS TERROR - 24/7" tvg-logo="" group-title="CANALES 24/7",PELUCULAS TERROR - 24/7
+http://54.37.84.141:8000/live/demoleague/champions/913.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="PELICULAS vitato  24/7" tvg-logo="" group-title="CANALES 24/7",PELICULAS vitato  24/7
+http://54.37.84.141:8000/live/demoleague/champions/912.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="ABC NEWS" tvg-logo="" group-title="USA_UK",ABC NEWS
+http://54.37.84.141:8000/live/demoleague/champions/100.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CABLENOTICIAS" tvg-logo="" group-title="NOTICIAS",CABLENOTICIAS
+http://54.37.84.141:8000/live/demoleague/champions/10.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNN CHILE" tvg-logo="" group-title="NOTICIAS",CNN CHILE
+http://54.37.84.141:8000/live/demoleague/champions/198.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNN español" tvg-logo="http://radiofides.com/es/wp-content/uploads/2015/12/cnn-espac3b1ol.jpeg" group-title="NOTICIAS",CNN español
+http://54.37.84.141:8000/live/demoleague/champions/290.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DW AMERICA" tvg-logo="http://192.169.197.208/~wwwmprot/wp-content/uploads/deutsche-welle.jpg" group-title="NOTICIAS",DW AMERICA
+http://54.37.84.141:8000/live/demoleague/champions/18.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HISPANO TV" tvg-logo="" group-title="NOTICIAS",HISPANO TV
+http://54.37.84.141:8000/live/demoleague/champions/23.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCE 24" tvg-logo="" group-title="EUROPA",FRANCE 24
+http://54.37.84.141:8000/live/demoleague/champions/317.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FRANCOPHONE" tvg-logo="" group-title="EUROPA",FRANCOPHONE
+http://54.37.84.141:8000/live/demoleague/champions/20.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="AFRIQUE 24" tvg-logo="" group-title="EUROPA",AFRIQUE 24
+http://54.37.84.141:8000/live/demoleague/champions/15.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNEWS" tvg-logo="" group-title="EUROPA",CNEWS
+http://54.37.84.141:8000/live/demoleague/champions/17.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL 2 CAMERUN" tvg-logo="" group-title="EUROPA",CANAL 2 CAMERUN
+http://54.37.84.141:8000/live/demoleague/champions/427.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CNN INTERNATIONAL" tvg-logo="http://www.occasionalplanet.org/wp-content/uploads/2016/06/CNN-International.png" group-title="USA_UK",CNN INTERNATIONAL
+http://54.37.84.141:8000/live/demoleague/champions/289.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="DBM TV" tvg-logo="" group-title="EUROPA",DBM TV
+http://54.37.84.141:8000/live/demoleague/champions/422.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="FOX TR" tvg-logo="" group-title="EUROPA",FOX TR
+http://54.37.84.141:8000/live/demoleague/champions/998.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TV5 AMERIQUE LATINE" tvg-logo="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAnIAAAAJGFkMzVhNWY1LWJjYjgtNGE4ZC05YWQ4LTUzNGQ2MDU2OGIyYQ.png" group-title="EUROPA",TV5 AMERIQUE LATINE
+http://54.37.84.141:8000/live/demoleague/champions/22.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="BBC HD" tvg-logo="" group-title="USA_UK",BBC HD
+http://54.37.84.141:8000/live/demoleague/champions/901.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 3 US" tvg-logo="" group-title="USA_UK",HBO 3 US
+http://54.37.84.141:8000/live/demoleague/champions/899.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="SONY CHANNEL US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/SonyChannel-Africa.jpg/250px-SonyChannel-Africa.jpg" group-title="USA_UK",SONY CHANNEL US
+http://54.37.84.141:8000/live/demoleague/champions/442.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="VOX AFRICA" tvg-logo="" group-title="EUROPA",VOX AFRICA
+http://54.37.84.141:8000/live/demoleague/champions/50.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="US:MSNBC HD" tvg-logo="" group-title="USA_UK",US:MSNBC HD
+http://54.37.84.141:8000/live/demoleague/champions/124.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="90's" tvg-logo="" group-title="MUSICA",90's
+http://54.37.84.141:8000/live/demoleague/champions/168.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alternative" tvg-logo="" group-title="MUSICA",Alternative
+http://54.37.84.141:8000/live/demoleague/champions/169.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Brits   Hits" tvg-logo="" group-title="MUSICA",Brits   Hits
+http://54.37.84.141:8000/live/demoleague/champions/170.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dance/EDM" tvg-logo="" group-title="MUSICA",Dance/EDM
+http://54.37.84.141:8000/live/demoleague/champions/171.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Hip-Hop and R&B" tvg-logo="" group-title="MUSICA",Hip-Hop and R&B
+http://54.37.84.141:8000/live/demoleague/champions/172.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Hit List" tvg-logo="" group-title="MUSICA",Hit List
+http://54.37.84.141:8000/live/demoleague/champions/173.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Indie" tvg-logo="" group-title="MUSICA",Indie
+http://54.37.84.141:8000/live/demoleague/champions/174.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Kidz Only!" tvg-logo="" group-title="MUSICA",Kidz Only!
+http://54.37.84.141:8000/live/demoleague/champions/175.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="M2oTV" tvg-logo="" group-title="MUSICA",M2oTV
+http://54.37.84.141:8000/live/demoleague/champions/153.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Metal" tvg-logo="" group-title="MUSICA",Metal
+http://54.37.84.141:8000/live/demoleague/champions/176.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Mexicana" tvg-logo="" group-title="MUSICA",Mexicana
+http://54.37.84.141:8000/live/demoleague/champions/177.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC TOP ARG" tvg-logo="" group-title="MUSICA",MUSIC TOP ARG
+http://54.37.84.141:8000/live/demoleague/champions/159.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="POWER HD" tvg-logo="" group-title="MUSICA",POWER HD
+http://54.37.84.141:8000/live/demoleague/champions/143.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="HTV" tvg-logo="https://pbs.twimg.com/profile_images/738838081122541568/Xly8mKUw_400x400.jpg" group-title="MUSICA",HTV
+http://54.37.84.141:8000/live/demoleague/champions/164.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV HITS" tvg-logo="" group-title="MUSICA",MTV HITS
+http://54.37.84.141:8000/live/demoleague/champions/166.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MTV LIVE HD" tvg-logo="" group-title="MUSICA",MTV LIVE HD
+http://54.37.84.141:8000/live/demoleague/champions/184.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Music Choice" tvg-logo="" group-title="MUSICA",Music Choice
+http://54.37.84.141:8000/live/demoleague/champions/167.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="MUSIC BOX" tvg-logo="" group-title="MUSICA",MUSIC BOX
+http://54.37.84.141:8000/live/demoleague/champions/147.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Musica Urbana" tvg-logo="" group-title="MUSICA",Musica Urbana
+http://54.37.84.141:8000/live/demoleague/champions/178.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="NRJ HITS TV" tvg-logo="" group-title="MUSICA",NRJ HITS TV
+http://54.37.84.141:8000/live/demoleague/champions/165.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Pop & Country" tvg-logo="" group-title="MUSICA",Pop & Country
+http://54.37.84.141:8000/live/demoleague/champions/179.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Pop Hits" tvg-logo="" group-title="MUSICA",Pop Hits
+http://54.37.84.141:8000/live/demoleague/champions/180.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Pop Latino" tvg-logo="" group-title="MUSICA",Pop Latino
+http://54.37.84.141:8000/live/demoleague/champions/181.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="R&B Soul" tvg-logo="" group-title="MUSICA",R&B Soul
+http://54.37.84.141:8000/live/demoleague/champions/182.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Rap" tvg-logo="" group-title="MUSICA",Rap
+http://54.37.84.141:8000/live/demoleague/champions/183.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Rock" tvg-logo="" group-title="MUSICA",Rock
+http://54.37.84.141:8000/live/demoleague/champions/185.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Teen Beats" tvg-logo="" group-title="MUSICA",Teen Beats
+http://54.37.84.141:8000/live/demoleague/champions/186.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TELERITMO" tvg-logo="" group-title="MUSICA",TELERITMO
+http://54.37.84.141:8000/live/demoleague/champions/162.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="CAPITAL TV" tvg-logo="" group-title="MUSICA",CAPITAL TV
+http://54.37.84.141:8000/live/demoleague/champions/157.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="TOP LATINO" tvg-logo="" group-title="MUSICA",TOP LATINO
+http://54.37.84.141:8000/live/demoleague/champions/154.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="Tropicales" tvg-logo="" group-title="MUSICA",Tropicales
+http://54.37.84.141:8000/live/demoleague/champions/190.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 classic" tvg-logo="" group-title="MUSICA",VH1 classic
+http://54.37.84.141:8000/live/demoleague/champions/187.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 HD" tvg-logo="" group-title="MUSICA",VH1 HD
+http://54.37.84.141:8000/live/demoleague/champions/189.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="VH1 LA" tvg-logo="https://pbs.twimg.com/profile_images/670355253062160386/bAvMwiH1_400x400.jpg" group-title="MUSICA",VH1 LA
+http://54.37.84.141:8000/live/demoleague/champions/158.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="VIRGIN MUSIC" tvg-logo="" group-title="MUSICA",VIRGIN MUSIC
+http://54.37.84.141:8000/live/demoleague/champions/155.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="6 Balloons (2018)" tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/15280403/p15280403_p_v8_aa.jpg" group-title="DRAMA",6 Balloons (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/887.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="10 Cloverfield Lane (2016)" tvg-logo="https://i.pinimg.com/originals/e3/47/6b/e3476b222356a4870d90efbec552ad93.jpg" group-title="DRAMA",10 Cloverfield Lane (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/362.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="1922 (2017)" tvg-logo="http://kinoclub.cc/uploads/posts/2017-10/1508743648_1008798.jpg" group-title="DRAMA",1922 (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/579.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="A Monster Calls (2016)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81vtMV5NrdL._SL1200_.jpg" group-title="DRAMA",A Monster Calls (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/363.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="A Walk in the Woods (2015)" tvg-logo="http://lamejorgr.com/wp-content/uploads/sites/41/2015/08/walk.jpg" group-title="COMEDIA",A Walk in the Woods (2015)
+http://54.37.84.141:8000/movie/demoleague/champions/364.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alerta En Lo Profundo (1999)" tvg-logo="https://image.tmdb.org/t/p/w342/xNa8pcnF1oQUav6h3Sh6jEClmD0.jpg" group-title="HORROR",Alerta En Lo Profundo (1999)
+http://54.37.84.141:8000/movie/demoleague/champions/1007.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alerta En Lo Profundo 2 (2018)" tvg-logo="http://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_10585_24.jpg" group-title="HORROR",Alerta En Lo Profundo 2 (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/946.mkv
+
+#62;            </div>        </div>    </div>    <input type="hidden" name="49e6c" value="da29"></div>        </div>   <div class="quicklinkSection" id="full_subnav" style="display:none">                          <div class="quicklinkSectionColumn">    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">DETAILS</div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/fullcredits?ref_=tt_ql_dt_1"class="quicklink" >Full Cast and Crew</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/releaseinfo?ref_=tt_ql_dt_2"class="quicklink" >Release Dates</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/officialsites?ref_=tt_ql_dt_3"class="quicklink" >Official Sites</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/companycredits?ref_=tt_ql_dt_4"class="quicklink" >Company Credits</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/locations?ref_=tt_ql_dt_5"class="quicklink" >Filming & Production</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/technical?ref_=tt_ql_dt_6"class="quicklink" >Technical Specs</a>            </div>    </div>               </div>               <div class="quicklinkSectionColumn">    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">STORYLINE</div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/taglines?ref_=tt_ql_stry_1"class="quicklink" >Taglines</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/plotsummary?ref_=tt_ql_stry_2"class="quicklink" >Plot Summary</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/synopsis?ref_=tt_ql_stry_3"class="quicklink quicklinkGray" >Synopsis</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/keywords?ref_=tt_ql_stry_4"class="quicklink" >Plot Keywords</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/parentalguide?ref_=tt_ql_stry_5"class="quicklink quicklinkGray" >Parents Guide</a>            </div>    </div>    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">RELATED ITEMS</div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/news?ref_=tt_ql_rel_1"class="quicklink" >News</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/externalsites?ref_=tt_ql_rel_2"class="quicklink" >External Sites</a>            </div>    </div>               </div>               <div class="quicklinkSectionColumn">    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">OPINION</div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/awards?ref_=tt_ql_op_1"class="quicklink" >Awards</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/faq?ref_=tt_ql_op_2"class="quicklink quicklinkGray" >FAQ</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/reviews?ref_=tt_ql_op_3"class="quicklink quicklinkGray" >User Reviews</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/ratings?ref_=tt_ql_op_4"class="quicklink" >User Ratings</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/externalreviews?ref_=tt_ql_op_5"class="quicklink" >External Reviews</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/criticreviews?ref_=tt_ql_op_6"class="quicklink quicklinkGray" >Metacritic Reviews</a>            </div>    </div>    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">PHOTO & VIDEO</div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/mediaindex?ref_=tt_ql_pv_1"class="quicklink" >Photo Gallery</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/videogallery?ref_=tt_ql_pv_2"class="quicklink quicklinkGray" >Trailers and Videos</a>            </div>    </div>               </div>               <div class="quicklinkSectionColumn">    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">DID YOU KNOW?</div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/trivia?ref_=tt_ql_trv_1"class="quicklink" >Trivia</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/goofs?ref_=tt_ql_trv_2"class="quicklink quicklinkGray" >Goofs</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/crazycredits?ref_=tt_ql_trv_3"class="quicklink quicklinkGray" >Crazy Credits</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/quotes?ref_=tt_ql_trv_4"class="quicklink quicklinkGray" >Quotes</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/alternateversions?ref_=tt_ql_trv_5"class="quicklink quicklinkGray" >Alternate Versions</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/movieconnections?ref_=tt_ql_trv_6"class="quicklink" >Connections</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt5196660/soundtrack?ref_=tt_ql_trv_7"class="quicklink" >Soundtracks</a>            </div>    </div>               </div>   </div>      </div>                  <div class="title_block">                    <div class="title_bar_wrapper">    <div class="ratings_wrapper">        <div class="imdbRating" itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating">                <div class="ratingValue"><strong title="6.6 based on 43 user ratings"><span itemprop="ratingValue">6.6</span></strong><span class="grey">/</span><span class="grey" itemprop="bestRating">10</span>                </div>                <a href="/title/tt5196660/ratings?ref_=tt_ov_rt"><span class="small" itemprop="ratingCount">43</span></a>                    <div class="hiddenImportant">                            <span itemprop="reviewCount">0 user</span>                            <span itemprop="reviewCount">28 critic</span>                    </div>        </div>  <div id="star-rating-widget" class="star-rating-widget" data-tconst="tt5196660" data-rating="0" data-user=""  data-auth="" data-tracking-tag="title-maindetails" data-rating-share-enabled="false" data-title="Amateur"  data-rating-next-share-time="2000-01-01T00:00:00.000Z" data-rating-share-treatment="C">    <div class="star-rating-button">      <button>        <span class="star-rating-star no-rating"></span>            <span class="star-rating-text">Rate This</span>      </button>    </div>  </div>    </div>    <div class="titleBar">        <div class="primary_ribbon">            <div class="ribbonize" data-tconst="tt5196660" data-caller-name="title"></div>            <div class="wlb_dropdown_btn" data-tconst="tt5196660" data-size="large" data-caller-name="title" data-type="primary"></div>            <div class="wlb_dropdown_list" style="display:none"></div>        </div>        <div class="title_wrapper"><h1 itemprop="name" class="">Amateur&nbsp;<span id="titleYear">(<a href="/year/2016/?ref_=tt_ov_inf">2016</a>)</span>            </h1>            <div class="subtext">                    <time itemprop="duration" datetime="PT97M">                        1h 37min                    </time><span class="ghost">|</span><a href="/genre/Thriller?ref_=tt_ov_inf"><span class="itemprop" itemprop="genre">Thriller</span></a><span class="ghost">|</span><a href="/title/tt5196660/releaseinfo?ref_=tt_ov_inf"title="See more release dates" >24 November 2016 (Argentina)<meta itemprop="datePublished" content="2016-11-24" /></a>            </div>        </div>    </div>                    </div>                </div>            </div>                <div class="minPosterWithPlotSummaryHeight">    <div class="poster"><a href="/title/tt5196660/mediaviewer/rm201129984?ref_=tt_ov_i"> <img alt="Amateur Poster" title="Amateur Poster"src="https://ia.media-imdb.com/images/M/MV5BNjUzODc2ZDMtZmU0ZS00MmU2LTgwNTMtOTA4YWZhODM2YWNhXkEyXkFqcGdeQXVyNTEwMjA1NTU@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="COMEDIA",Amateur (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/888.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Amityville El Despertar (2017)" tvg-logo="https://pisces.bbystatic.com/image2/BestBuy_US/images/products/3352/33520404_sa.jpg;maxHeight=550;maxWidth=642" group-title="HORROR",Amityville El Despertar (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/580.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Annabelle 2 La Creación (2017)" tvg-logo="https://i2.wp.com/www.programasvirtualespc.net/wp-content/uploads/2017/10/Anabella-2.png?fit=702%2C336&ssl=1" group-title="HORROR",Annabelle 2 La Creación (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/605.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Asesino: Misión Venganza (2017)" tvg-logo="https://pics.filmaffinity.com/american_assassin-987203719-large.jpg" group-title="ACCION",Asesino: Misión Venganza (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/409.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Actos de Venganza (Acts Of Vengeance) (2017)" tvg-logo="https://pics.filmaffinity.com/acts_of_vengeance-528865411-large.jpg" group-title="ACCION",Actos de Venganza (Acts Of Vengeance) (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/852.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alien vs Predador" tvg-logo="https://www.movieposter.com/posters/archive/main/108/MPW-54062" group-title="HORROR",Alien vs Predador
+http://54.37.84.141:8000/movie/demoleague/champions/366.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Alien vs Predator 2 Requiem" tvg-logo="https://img.discogs.com/xfTsOojsfXLqIq88FeWv6ZtAfi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513994-1333828599.jpeg.jpg" group-title="HORROR",Alien vs Predator 2 Requiem
+http://54.37.84.141:8000/movie/demoleague/champions/367.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Allegiant (2016)" tvg-logo="https://i.pinimg.com/originals/9c/70/01/9c7001340b499ff1b858b553828bed15.jpg" group-title="ACCION",Allegiant (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/368.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="American Sniper (2014)" tvg-logo="http://c8.alamy.com/comp/H6B6KR/bradley-cooper-poster-american-sniper-2014-H6B6KR.jpg" group-title="ACCION",American Sniper (2014)
+http://54.37.84.141:8000/movie/demoleague/champions/369.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Aquí No Ha Pasado Nada (2016)" tvg-logo="https://pics.filmaffinity.com/aqui_no_ha_pasado_nada-276255480-large.jpg" group-title="DRAMA",Aquí No Ha Pasado Nada (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/973.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Atómica (2017)" tvg-logo="https://pics.filmaffinity.com/atomic_blonde-338199948-large.jpg" group-title="ACCION",Atómica (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/972.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Bajo cero: milagro en la montaña (2017)" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcTUwv-dFdCjxGdwfZd1H_zrnM23pLYbuY50u0fKctq8YanpDbn8" group-title="DRAMA",Bajo cero: milagro en la montaña (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/944.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Batman vs Superman.Dawn of Justice (2016)" tvg-logo="https://ugc.kn3.net/i/origin/http://www.loseternautas.com/wp-content/uploads/2014/08/c3699692-8418-4543-9ba2-5927c8e75bef.jpeg" group-title="ACCION",Batman vs Superman.Dawn of Justice (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/382.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Batman Gotham Luz de Gas (2018)" tvg-logo="https://vignette.wikia.nocookie.net/doblaje/images/c/cd/Batman-Gotham-By-Gaslight-Movie.png/revision/latest?cb=20171206214513&path-prefix=es" group-title="ANIMACION-INFANTIL",Batman Gotham Luz de Gas (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/853.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Berlin Syndrome" tvg-logo="https://cinelipsis.files.wordpress.com/2017/07/44ec86a33bbb9d062ed709b6a6a2bac4_500x735.jpg?w=460&h=676" group-title="DRAMA",Berlin Syndrome
+http://54.37.84.141:8000/movie/demoleague/champions/238.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Caída del Cielo (2016)" tvg-logo="https://pics.filmaffinity.com/caida_del_cielo-181357031-large.jpg" group-title="COMEDIA",Caída del Cielo (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/969.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Carteristas (2018)" tvg-logo="https://pics.filmaffinity.com/pickpockets-668911129-large.jpg" group-title="DRAMA",Carteristas (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/947.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Carrie (2013)" tvg-logo="https://pics.filmaffinity.com/carrie-941013956-large.jpg" group-title="HORROR",Carrie (2013)
+http://54.37.84.141:8000/movie/demoleague/champions/999.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Cuando te Encuentre (2012)" tvg-logo="https://pics.filmaffinity.com/the_lucky_one-105071119-large.jpg" group-title="DRAMA",Cuando te Encuentre (2012)
+http://54.37.84.141:8000/movie/demoleague/champions/970.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Código Abierto (2017)" tvg-logo="https://pics.filmaffinity.com/unlocked-943972854-large.jpg" group-title="ACCION",Código Abierto (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/953.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="COCO" tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY1200_CR105,0,630,1200_AL_.jpg" group-title="ANIMACION-INFANTIL",COCO
+http://54.37.84.141:8000/movie/demoleague/champions/242.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Day of the Dead Bloodline (2018)" tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/14903618/p14903618_p_v8_aa.jpg" group-title="HORROR",Day of the Dead Bloodline (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/480.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Descendientes 2 (2017)" tvg-logo="https://phantom.pe/shop/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/d/e/decendientes_2_-_la_novela.jpg" group-title="ACCION",Descendientes 2 (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/479.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Death Race 4 (2018) Subtitulado" tvg-logo="https://ia.media-imdb.com/images/M/MV5BMDE1NDAxZjktYWU0MS00Yjc1LThkN2QtYjg2ZWFkMWZhNjE3XkEyXkFqcGdeQXVyNDA4OTExNDU@._V1_.jpg" group-title="HORROR",Death Race 4 (2018) Subtitulado
+http://54.37.84.141:8000/movie/demoleague/champions/948.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Derren Brown The Push (2018)" tvg-logo="" group-title="HORROR",Derren Brown The Push (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/949.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dulce Venganza (2016)" tvg-logo="https://pics.filmaffinity.com/the_assignment-708930968-large.jpg" group-title="ACCION",Dulce Venganza (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/971.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="El Lobo De Wall Street (2013)" tvg-logo="https://pics.filmaffinity.com/the_wolf_of_wall_street-675195906-large.jpg" group-title="COMEDIA",El Lobo De Wall Street (2013)
+http://54.37.84.141:8000/movie/demoleague/champions/974.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="En la Mira del Francotirador (2017)" tvg-logo="http://www.thaidvd.biz/images/d5_thewall.jpg" group-title="DRAMA",En la Mira del Francotirador (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/950.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="El plan B (2010)" tvg-logo="http://www.labutaca.net/peliculas/wp-content/uploads/2009/12/el-plan-b-cartel.jpg" group-title="COMEDIA",El plan B (2010)
+http://54.37.84.141:8000/movie/demoleague/champions/869.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="El payaso del mal (2014)" tvg-logo="http://www.cines.com.py/images/dinamico/peliculas/1650/afiche/el-payaso-del-mal-7.jpg" group-title="HORROR",El payaso del mal (2014)
+http://54.37.84.141:8000/movie/demoleague/champions/408.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="El Pasajero (2018)" tvg-logo="https://i.pinimg.com/originals/6c/24/d0/6c24d0115b8d86aa17da91e0d0260813.jpg" group-title="ACCION",El Pasajero (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/481.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="El Culto de Chucky (2017)" tvg-logo="https://pics.filmaffinity.com/cult_of_chucky-141340185-large.jpg" group-title="HORROR",El Culto de Chucky (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/606.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="El Último Beso Del Káiser (2016)" tvg-logo="https://pics.filmaffinity.com/the_exception-569136262-large.jpg" group-title="DRAMA",El Último Beso Del Káiser (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/996.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Faut Pas Lui Dire (2016)" tvg-logo="https://ia.media-imdb.com/images/M/MV5BY2VjNDk2YmMtYjQyZS00NDIxLThmMjItNzY0NzFiMjNmNTlmXkEyXkFqcGdeQXVyMjQ0NzUzODI@._V1_SY1000_CR0,0,699,1000_AL_.jpg" group-title="COMEDIA",Faut Pas Lui Dire (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/951.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Feliz aniversario (2018)" tvg-logo="https://pics.filmaffinity.com/happy_anniversary-539125243-large.jpg" group-title="COMEDIA",Feliz aniversario (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/976.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="First Kill (2017)" tvg-logo="https://lelopeliculas.info/wp-content/uploads/2018/02/En-defensa-propia-2017-246x400.jpg" group-title="ACCION",First Kill (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/577.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Game Over, Man! (2018)" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcRHcqwtugZfAx_BppRej9-gW-FBmB0E5ugBk02pcr8P4PCW_JiD" group-title="COMEDIA",Game Over, Man! (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/854.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Geo Tormenta (2017)" tvg-logo="https://pics.filmaffinity.com/geostorm-475853429-large.jpg" group-title="ACCION",Geo Tormenta (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/863.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Happy Death Day (2017)" tvg-logo="http://www.cailegdl.com/wp-content/uploads/2017/10/018951-820x1302.jpg" group-title="HORROR",Happy Death Day (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/832.mkv
+
+#62;            </div>        </div>    </div>    <input type="hidden" name="49e6c" value="da29"></div>        </div>   <div class="quicklinkSection" id="full_subnav" style="display:none">                          <div class="quicklinkSectionColumn">    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">DETAILS</div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/fullcredits?ref_=tt_ql_dt_1"class="quicklink" >Full Cast and Crew</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/releaseinfo?ref_=tt_ql_dt_2"class="quicklink" >Release Dates</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/officialsites?ref_=tt_ql_dt_3"class="quicklink quicklinkGray" >Official Sites</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/companycredits?ref_=tt_ql_dt_4"class="quicklink" >Company Credits</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/locations?ref_=tt_ql_dt_5"class="quicklink quicklinkGray" >Filming & Production</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/technical?ref_=tt_ql_dt_6"class="quicklink" >Technical Specs</a>            </div>    </div>               </div>               <div class="quicklinkSectionColumn">    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">STORYLINE</div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/taglines?ref_=tt_ql_stry_1"class="quicklink quicklinkGray" >Taglines</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/plotsummary?ref_=tt_ql_stry_2"class="quicklink" >Plot Summary</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/synopsis?ref_=tt_ql_stry_3"class="quicklink quicklinkGray" >Synopsis</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/keywords?ref_=tt_ql_stry_4"class="quicklink quicklinkGray" >Plot Keywords</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/parentalguide?ref_=tt_ql_stry_5"class="quicklink quicklinkGray" >Parents Guide</a>            </div>    </div>    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">RELATED ITEMS</div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/news?ref_=tt_ql_rel_1"class="quicklink quicklinkGray" >News</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/externalsites?ref_=tt_ql_rel_2"class="quicklink" >External Sites</a>            </div>    </div>               </div>               <div class="quicklinkSectionColumn">    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">OPINION</div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/awards?ref_=tt_ql_op_1"class="quicklink quicklinkGray" >Awards</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/faq?ref_=tt_ql_op_2"class="quicklink quicklinkGray" >FAQ</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/reviews?ref_=tt_ql_op_3"class="quicklink" >User Reviews</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/ratings?ref_=tt_ql_op_4"class="quicklink" >User Ratings</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/externalreviews?ref_=tt_ql_op_5"class="quicklink quicklinkGray" >External Reviews</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/criticreviews?ref_=tt_ql_op_6"class="quicklink quicklinkGray" >Metacritic Reviews</a>            </div>    </div>    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">PHOTO & VIDEO</div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/mediaindex?ref_=tt_ql_pv_1"class="quicklink" >Photo Gallery</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/videogallery?ref_=tt_ql_pv_2"class="quicklink quicklinkGray" >Trailers and Videos</a>            </div>    </div>               </div>               <div class="quicklinkSectionColumn">    <div class="quicklinkGroup">        <div class="quicklinkSectionHeader">DID YOU KNOW?</div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/trivia?ref_=tt_ql_trv_1"class="quicklink quicklinkGray" >Trivia</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/goofs?ref_=tt_ql_trv_2"class="quicklink quicklinkGray" >Goofs</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/crazycredits?ref_=tt_ql_trv_3"class="quicklink quicklinkGray" >Crazy Credits</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/quotes?ref_=tt_ql_trv_4"class="quicklink quicklinkGray" >Quotes</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/alternateversions?ref_=tt_ql_trv_5"class="quicklink quicklinkGray" >Alternate Versions</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/movieconnections?ref_=tt_ql_trv_6"class="quicklink quicklinkGray" >Connections</a>            </div>            <div class="quicklinkSectionItem"><a href="/title/tt6243218/soundtrack?ref_=tt_ql_trv_7"class="quicklink" >Soundtracks</a>            </div>    </div>               </div>   </div>      </div>                  <div class="title_block">                    <div class="title_bar_wrapper">    <div class="ratings_wrapper">        <div class="imdbRating" itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating">                <div class="ratingValue"><strong title="6.3 based on 34 user ratings"><span itemprop="ratingValue">6.3</span></strong><span class="grey">/</span><span class="grey" itemprop="bestRating">10</span>                </div>                <a href="/title/tt6243218/ratings?ref_=tt_ov_rt"><span class="small" itemprop="ratingCount">34</span></a>                    <div class="hiddenImportant">                            <span itemprop="reviewCount">1 user</span>                    </div>        </div>  <div id="star-rating-widget" class="star-rating-widget" data-tconst="tt6243218" data-rating="0" data-user=""  data-auth="" data-tracking-tag="title-maindetails" data-rating-share-enabled="false" data-title="Hija única"  data-rating-next-share-time="2000-01-01T00:00:00.000Z" data-rating-share-treatment="C">    <div class="star-rating-button">      <button>        <span class="star-rating-star no-rating"></span>            <span class="star-rating-text">Rate This</span>      </button>    </div>  </div>    </div>    <div class="titleBar">        <div class="primary_ribbon">            <div class="ribbonize" data-tconst="tt6243218" data-caller-name="title"></div>            <div class="wlb_dropdown_btn" data-tconst="tt6243218" data-size="large" data-caller-name="title" data-type="primary"></div>            <div class="wlb_dropdown_list" style="display:none"></div>        </div>        <div class="title_wrapper"><h1 itemprop="name" class="">Hija única&nbsp;<span id="titleYear">(<a href="/year/2016/?ref_=tt_ov_inf">2016</a>)</span>            </h1>            <div class="subtext">                    <time itemprop="duration" datetime="PT112M">                        1h 52min                    </time><span class="ghost">|</span><a href="/genre/Drama?ref_=tt_ov_inf"><span class="itemprop" itemprop="genre">Drama</span></a><span class="ghost">|</span><a href="/title/tt6243218/releaseinfo?ref_=tt_ov_inf"title="See more release dates" >10 November 2016 (Argentina)<meta itemprop="datePublished" content="2016-11-10" /></a>            </div>        </div>    </div>                    </div>                </div>            </div>                <div class="minPosterWithPlotSummaryHeight">    <div class="poster"><a href="/title/tt6243218/mediaviewer/rm346948864?ref_=tt_ov_i"> <img alt="Hija única Poster" title="Hija única Poster"src="https://ia.media-imdb.com/images/M/MV5BN2RiYWJkYTAtOTU0NS00Y2Q5LWI4MzctMTMwNDEwODRkMjE2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTg0MTAyMDY@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="DRAMA",Hija única (2016
+http://54.37.84.141:8000/movie/demoleague/champions/461.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Héroe de Centro Comercial 2" tvg-logo="http://www.peliculasclick.com.ar/imagen/heroe-centro-2.jpg" group-title="COMEDIA",Héroe de Centro Comercial 2
+http://54.37.84.141:8000/movie/demoleague/champions/241.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Historia De Fantasmas (2017)" tvg-logo="https://pics.filmaffinity.com/a_ghost_story-788590956-large.jpg" group-title="DRAMA",Historia De Fantasmas (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/1051.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Hush (2016)" tvg-logo="https://ia.media-imdb.com/images/M/MV5BOWQ4OTdlODQtMDc3Yy00MGVmLWExYjUtOGI0Yjg4MDQzNDNhXkEyXkFqcGdeQXVyNjIzMzkyMzk@._V1_SY1000_CR0,0,675,1000_AL_.jpg" group-title="HORROR",Hush (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/1049.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="I Am not an Easy Man (2018)" tvg-logo="https://images.justwatch.com/poster/55438408/s592" group-title="COMEDIA",I Am not an Easy Man (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/1052.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="I Love You - Una comedia de divorcio (2016)" tvg-logo="https://ia.media-imdb.com/images/M/MV5BYzMzMmZiMmQtOWQ1MS00ZWI4LTk2NWYtNTNhN2EwMzE5MTQyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY1000_CR0,0,666,1000_AL_.jpg" group-title="COMEDIA",I Love You - Una comedia de divorcio (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/954.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="iBoy (2017)" tvg-logo="https://pics.filmaffinity.com/iboy-727055223-large.jpg" group-title="ACCION",iBoy (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/952.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="IT ESO 2017" tvg-logo="https://pbs.twimg.com/media/C8BMcAAXwAAp0Wo.jpg" group-title="HORROR",IT ESO 2017
+http://54.37.84.141:8000/movie/demoleague/champions/236.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="I Spit on Your Grave 2 (2013)" tvg-logo="http://1.bp.blogspot.com/-7PQKh4Ib6u8/VNymlqfQmOI/AAAAAAAAk5k/6vyGtnxSQGo/s1600/I%2BSpit%2Bon%2BYour%2BGrave%2B2%2B(2013).jpg" group-title="HORROR",I Spit on Your Grave 2 (2013)
+http://54.37.84.141:8000/movie/demoleague/champions/833.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="insidious the last key (2018)" tvg-logo="https://i.ytimg.com/vi/acQyrwQyCOk/maxresdefault.jpg" group-title="HORROR",insidious the last key (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/432.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Jigsaw: el juego continúa" tvg-logo="http://cl.buscafs.com/www.tomatazos.com/public/uploads/images/150503_173x256.jpg" group-title="HORROR",Jigsaw: el juego continúa
+http://54.37.84.141:8000/movie/demoleague/champions/237.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Jeepers Creepers (2001)" tvg-logo="http://underthegunreview.net/app/uploads/2013/10/Jeepers-Creepers-2001-movie-poster.jpg" group-title="HORROR",Jeepers Creepers (2001)
+http://54.37.84.141:8000/movie/demoleague/champions/836.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Jeepers Creepers 2 (2003)" tvg-logo="http://is3.mzstatic.com/image/thumb/Video127/v4/83/21/6a/83216a16-7e11-d11d-d60e-d8978df7dc74/source/1200x630bb.jpg" group-title="HORROR",Jeepers Creepers 2 (2003)
+http://54.37.84.141:8000/movie/demoleague/champions/837.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Jumanji (1995)" tvg-logo="http://images6.fanpop.com/image/photos/40500000/Jumanji-1995-Poster-jumanji-40536736-1000-1426.jpg" group-title="ANIMACION-INFANTIL",Jumanji (1995)
+http://54.37.84.141:8000/movie/demoleague/champions/1002.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Jumanji En la Selva (2017)" tvg-logo="https://pics.filmaffinity.com/jumanji_welcome_to_the_jungle-452853204-large.jpg" group-title="COMEDIA",Jumanji En la Selva (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/826.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Justice League (2017)" tvg-logo="https://i.pinimg.com/originals/aa/9f/13/aa9f13896b139cedbd7fc1daf23b96f1.jpg" group-title="ACCION",Justice League (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/868.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Kickboxer Retaliation (2018)" tvg-logo="https://img.netnaija.com/srSHHK.jpg" group-title="ACCION",Kickboxer Retaliation (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/433.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Hora Final (2017)" tvg-logo="https://pics.filmaffinity.com/la_hora_final-312820701-large.jpg" group-title="DRAMA",La Hora Final (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/977.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La mujer más odiada de Estados Unidos (2017)" tvg-logo="http://www.pelisplanet.com/wp-content/uploads/2017/04/la-mujer-mas-odiada.jpg" group-title="DRAMA",La mujer más odiada de Estados Unidos (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/838.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La bóveda (2017)" tvg-logo="https://pics.filmaffinity.com/the_vault-611592534-large.jpg" group-title="HORROR",La bóveda (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/965.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Niñera (2017)" tvg-logo="http://allcalidad.com/wp-content/uploads/2017/10/La-ni%C3%B1era.jpg" group-title="HORROR",La Niñera (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/839.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Línea mortal: al límite (2017)" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/gallery_big/public/media/image/2017/09/enganchados-muerte_1.jpg?itok=JFXh9tV8" group-title="DRAMA",Línea mortal: al límite (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/831.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La verdad duele (Concussion) (2015)" tvg-logo="http://fr.web.img6.acsta.net/r_1280_720/pictures/15/09/04/12/15/523940.jpg" group-title="DRAMA",La verdad duele (Concussion) (2015)
+http://54.37.84.141:8000/movie/demoleague/champions/399.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Estafa de los Logan (2017)" tvg-logo="https://pics.filmaffinity.com/logan_lucky-282048373-large.jpg" group-title="COMEDIA",La Estafa de los Logan (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/955.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Leatherface (2017)" tvg-logo="https://pics.filmaffinity.com/leatherface-620085863-large.jpg" group-title="HORROR",Leatherface (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/987.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Lo Más Sencillo es Complicarlo Todo (2018)" tvg-logo="https://pics.filmaffinity.com/lo_mas_sencillo_es_complicarlo_todo-109944821-large.jpg" group-title="COMEDIA",Lo Más Sencillo es Complicarlo Todo (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/989.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Locos por las Nueces 2 (2017)" tvg-logo="https://pics.filmaffinity.com/the_nut_job_2_nutty_by_nature-679268120-large.jpg" group-title="ANIMACION-INFANTIL",Locos por las Nueces 2 (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/988.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="LOS OLVIDADOS (2017)" tvg-logo="https://i.pinimg.com/564x/c2/ee/81/c2ee8114c62d0a49e7edb7ea4adc23c9.jpg" group-title="HORROR",LOS OLVIDADOS (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/956.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Lilo y Stitch 2: Stitch en cortocircuito (2005)" tvg-logo="http://www.pelisplanet.com/wp-content/uploads/2016/11/Lilo-y-Stitch-2.jpg" group-title="ANIMACION-INFANTIL",Lilo y Stitch 2: Stitch en cortocircuito (2005)
+http://54.37.84.141:8000/movie/demoleague/champions/512.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Lujuria en el Convento (2017)" tvg-logo="https://1.bp.blogspot.com/-xPw1UjqqOnU/Wq2PS3xdAbI/AAAAAAAAAEk/_vaKU7RgBXwGEgtTAlAzEkHMtz_y_kZSACLcBGAs/s400/tlh_character_1.jpg" group-title="COMEDIA",Lujuria en el Convento (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/361.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Lilo and Stitch (2002)" tvg-logo="http://is4.mzstatic.com/image/thumb/Video122/v4/85/23/d3/8523d300-3c33-1333-1293-68834fd6ffaa/source/1200x630bb.jpg" group-title="ANIMACION-INFANTIL",Lilo and Stitch (2002)
+http://54.37.84.141:8000/movie/demoleague/champions/520.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Los Pitufos En la Aldea Perdida (2017)" tvg-logo="https://vignette.wikia.nocookie.net/pitufos/images/c/cf/Los_Pitufos_En_La_Aldea_Perdida_Poster_Oficial.jpg/revision/latest?cb=20161215221735&path-prefix=es" group-title="ANIMACION-INFANTIL",Los Pitufos En la Aldea Perdida (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/521.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Margarita (2017)" tvg-logo="https://pics.filmaffinity.com/margarita-664184808-large.jpg" group-title="COMEDIA",Margarita (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/990.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Matilda (1996)" tvg-logo="https://pics.filmaffinity.com/matilda-770869214-large.jpg" group-title="ANIMACION-INFANTIL",Matilda (1996)
+http://54.37.84.141:8000/movie/demoleague/champions/991.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Más Fuerte que el Destino (2017)" tvg-logo="https://pics.filmaffinity.com/stronger-494247088-large.jpg" group-title="DRAMA",Más Fuerte que el Destino (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/1000.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Max Steel" tvg-logo="data:image/jpeg;base64,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" group-title="ACCION",Max Steel
+http://54.37.84.141:8000/movie/demoleague/champions/239.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Melanie: apocalipsis zombie (2016)" tvg-logo="http://cl.buscafs.com/www.tomatazos.com/public/uploads/images/107006_600x315.jpg" group-title="HORROR",Melanie: apocalipsis zombie (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/840.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Mi Villano Favorito 2 (2013)" tvg-logo="http://www.rosariocine.com.ar/info/3761d.jpg" group-title="ANIMACION-INFANTIL",Mi Villano Favorito 2 (2013)
+http://54.37.84.141:8000/movie/demoleague/champions/827.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Mi primer combate (2018)" tvg-logo="https://pics.filmaffinity.com/first_match-423322100-large.jpg" group-title="DRAMA",Mi primer combate (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/975.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Mi villano favorito 3 (2017)" tvg-logo="https://fotos.subefotos.com/44ff3f7f447562112dd67826314114b0o.jpg" group-title="ANIMACION-INFANTIL",Mi villano favorito 3 (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/830.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Más allá de la montaña" tvg-logo="https://cdn-images-1.medium.com/max/1024/1*T-TrcrZiZEO1h-pAHn05sQ.jpeg" group-title="ACCION",Más allá de la montaña
+http://54.37.84.141:8000/movie/demoleague/champions/304.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Molot (2016)" tvg-logo="https://www.kinopoisk.ru/images/film_big/765098.jpg" group-title="ACCION",Molot (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/958.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="mujer en llamas" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/mujer_en_llamas.jpg" group-title="ACCION",mujer en llamas
+http://54.37.84.141:8000/movie/demoleague/champions/306.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Mute (2018)" tvg-logo="https://3.bp.blogspot.com/-b4PpefHmZsg/WnIU7gcUWoI/AAAAAAAAhOI/mTlXqd0Qa8AQ7N9_-iR7aygBpTgPUpQ2QCLcBGAs/s00/Mute_Official_Poster_JPosters.jpg" group-title="DRAMA",Mute (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/434.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Nunca Digas su Nombre (2017)" tvg-logo="http://cines.com.py/images/dinamico/peliculas/1872/afiche/nunca-digas-su-nombre-poster-empeliculados.co_.jpg" group-title="HORROR",Nunca Digas su Nombre (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/829.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="No estamos solos" tvg-logo="https://cde.peru.com//ima/0/1/2/9/3/1293960/611x458/no-estamos-solos.jpg" group-title="HORROR",No estamos solos
+http://54.37.84.141:8000/movie/demoleague/champions/240.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Olé, El Viaje de Ferdinand (2017)" tvg-logo="http://www.papasehijos.com/wp-content/uploads/2017/12/FERDINAND.jpg" group-title="ANIMACION-INFANTIL",Olé, El Viaje de Ferdinand (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/959.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Olafs Frozen Adventure (2017)" tvg-logo="http://impaled.ws/wp-content/uploads/2017/12/olafs_frozen_adventure-1.jpg" group-title="ANIMACION-INFANTIL",Olafs Frozen Adventure (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/1050.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Overdrive (2017)" tvg-logo="https://pics.filmaffinity.com/overdrive-331863894-large.jpg" group-title="ACCION",Overdrive (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/866.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Paddington 2 (2017)" tvg-logo="https://pics.filmaffinity.com/paddington_2-825590515-large.jpg" group-title="ANIMACION-INFANTIL",Paddington 2 (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/867.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Proud Mary" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcSrpdf8spe4heS_eXo-fxL79aE1nvFkr0OFqa3-Dfw-803w7cRy" group-title="ACCION",Proud Mary
+http://54.37.84.141:8000/movie/demoleague/champions/960.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Revolt (2017)" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcSFarCBQkveQc2uQ8rS4zr2ve0IVCirKO7o9LLCCTA7ZyzG4FAd" group-title="ACCION",Revolt (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/870.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Steel Rain (2017)" tvg-logo="http://allcalidad.com/wp-content/uploads/2018/03/Lluvia-de-acero.jpg" group-title="ACCION",Steel Rain (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/865.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Stretch Armstrong La Fuga (2018)" tvg-logo="https://images.justwatch.com/poster/49593853/s592" group-title="ANIMACION-INFANTIL",Stretch Armstrong La Fuga (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/992.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="SCREAM (1996)" tvg-logo="https://pics.filmaffinity.com/scream-786162434-large.jpg" group-title="HORROR",SCREAM (1996)
+http://54.37.84.141:8000/movie/demoleague/champions/1003.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Scream 2 (1997)" tvg-logo="https://pics.filmaffinity.com/scream_2-316203164-large.jpg" group-title="HORROR",Scream 2 (1997)
+http://54.37.84.141:8000/movie/demoleague/champions/1004.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Scream 3 (2000)" tvg-logo="http://1.bp.blogspot.com/-MCtoWQiYEwU/VLbKltfr_sI/AAAAAAAATcw/cglmJDiMuzc/s320/scream3.jpg" group-title="HORROR",Scream 3 (2000)
+http://54.37.84.141:8000/movie/demoleague/champions/578.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Scream 4 (2011)" tvg-logo="http://t1.gstatic.com/images?q=tbn:ANd9GcTtZ34T24TUA6jOlrj0Z-vSRtAl3r9ZWs6057aATtzfHi7PX9X7" group-title="HORROR",Scream 4 (2011)
+http://54.37.84.141:8000/movie/demoleague/champions/828.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Skin Trade" tvg-logo="http://www.vtvcab.vn/content/upload/1/7/thuan3/skin-trade-2015.jpg" group-title="ACCION",Skin Trade
+http://54.37.84.141:8000/movie/demoleague/champions/303.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="Stratton (2017)" tvg-logo="https://charlottesometimesgoestothemovies.files.wordpress.com/2017/08/stratton_quad_lr.jpg" group-title="ACCION",Stratton (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/886.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Surviving the Wild (2018)" tvg-logo="https://ia.media-imdb.com/images/M/MV5BN2FhMzIxZjQtMTQ0YS00MDliLTljYjktZGEwMGYzMWEzODZkXkEyXkFqcGdeQXVyMTIxMzA5MDI@._V1_SY1000_CR0,0,713,1000_AL_.jpg" group-title="ACCION",Surviving the Wild (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/963.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Suicide Squad: Hell to Pay (2018)" tvg-logo="http://pelisplan.com/wp-content/uploads/2018/03/suicide-squad-hell-to-pay-1044-poster.jpg" group-title="ANIMACION-INFANTIL",Suicide Squad: Hell to Pay (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/478.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Darkest Dawn (2016)" tvg-logo="https://pics.filmaffinity.com/the_darkest_dawn-215358291-large.jpg" group-title="DRAMA",The Darkest Dawn (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/964.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Disappointments Room (2016)" tvg-logo="https://pics.filmaffinity.com/the_disappointments_room-894537634-large.jpg" group-title="HORROR",The Disappointments Room (2016)
+http://54.37.84.141:8000/movie/demoleague/champions/842.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Foreigner El Implacable (2017)" tvg-logo="https://pics.filmaffinity.com/the_foreigner-333815087-large.jpg" group-title="ACCION",The Foreigner El Implacable (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/293.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Titanic (1997)" tvg-logo="https://pics.filmaffinity.com/titanic-321994924-large.jpg" group-title="DRAMA",Titanic (1997)
+http://54.37.84.141:8000/movie/demoleague/champions/994.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Debt Collector (2018)" tvg-logo="https://pics.filmaffinity.com/the_debt_collector-416172607-large.jpg" group-title="ACCION",The Debt Collector (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/1005.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Sandman (2017)" tvg-logo="https://pics.filmaffinity.com/the_sandman-876543192-large.jpg" group-title="HORROR",The Sandman (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/993.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="The Greatest Showman (2017)" tvg-logo="https://k60.kn3.net/taringa/3/8/3/1/9/3/4/cristianoche/9A6.jpg" group-title="DRAMA",The Greatest Showman (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/482.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Todo el Dinero del Mundo (2017)" tvg-logo="https://pics.filmaffinity.com/all_the_money_in_the_world-572153295-large.jpg" group-title="DRAMA",Todo el Dinero del Mundo (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/995.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Totem (2017)" tvg-logo="https://egybom.com/wp-content/uploads/2017/11/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-%D9%88-%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%81%D9%8A%D9%84%D9%85-Totem-2017-%D9%85%D8%AA%D8%B1%D8%AC%D9%85-%D8%A7%D9%88%D9%86-%D9%84%D8%A7%D9%8A%D9%86.jpg" group-title="HORROR",Totem (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/307.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Undercover Grandpa" tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/14167276/p14167276_p_v8_ab.jpg" group-title="ACCION",Undercover Grandpa
+http://54.37.84.141:8000/movie/demoleague/champions/244.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Una Mujer Fantastica (2017)" tvg-logo="http://payload538.cargocollective.com/1/2/64651/13065148/AFF_UNA-MUJER_120_1000.jpg" group-title="DRAMA",Una Mujer Fantastica (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/435.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Winchester: La casa que construyeron los espíritus (2018 )" tvg-logo="https://pics.filmaffinity.com/winchester-395060487-large.jpg" group-title="HORROR",Winchester: La casa que construyeron los espíritus (2018 )
+http://54.37.84.141:8000/movie/demoleague/champions/997.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Vuelven (2017)" tvg-logo="https://pics.filmaffinity.com/vuelven-941014237-large.jpg" group-title="HORROR",Vuelven (2017)
+http://54.37.84.141:8000/movie/demoleague/champions/1001.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Woody woodpecker" tvg-logo="http://allcalidad.com/wp-content/uploads/2018/01/el-pajaro-loco-la-pelicula.jpg" group-title="ANIMACION-INFANTIL",Woody woodpecker
+http://54.37.84.141:8000/movie/demoleague/champions/243.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="X-Men.Days.of.Future.Past.2014" tvg-logo="data:image/jpeg;base64,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" group-title="ACCION",X-Men.Days.of.Future.Past.2014
+http://54.37.84.141:8000/movie/demoleague/champions/308.mp4
+
+#EXTINF:-1 tvg-ID="" tvg-name="Zombies (2018)" tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/14625571/p14625571_p_v8_aa.jpg" group-title="COMEDIA",Zombies (2018)
+http://54.37.84.141:8000/movie/demoleague/champions/968.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Black Lightning S01E01" tvg-logo="https://1.bp.blogspot.com/-MFytaoQrgBA/WnDIZtEUlfI/AAAAAAAAAXc/zk_JYTcCi0IDVaQiu5ehe42H94Mv_zh8QCLcBGAs/s1600/Poster%2Bblack.png" group-title="Black Lightning",Black Lightning S01E01
+http://54.37.84.141:8000/movie/demoleague/champions/407.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Black Lightning S01E02" tvg-logo="https://1.bp.blogspot.com/-MFytaoQrgBA/WnDIZtEUlfI/AAAAAAAAAXc/zk_JYTcCi0IDVaQiu5ehe42H94Mv_zh8QCLcBGAs/s1600/Poster%2Bblack.png" group-title="Black Lightning",Black Lightning S01E02
+http://54.37.84.141:8000/movie/demoleague/champions/406.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Black Lightning S01E03" tvg-logo="https://1.bp.blogspot.com/-MFytaoQrgBA/WnDIZtEUlfI/AAAAAAAAAXc/zk_JYTcCi0IDVaQiu5ehe42H94Mv_zh8QCLcBGAs/s1600/Poster%2Bblack.png" group-title="Black Lightning",Black Lightning S01E03
+http://54.37.84.141:8000/movie/demoleague/champions/405.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Black Lightning S01E04" tvg-logo="https://1.bp.blogspot.com/-MFytaoQrgBA/WnDIZtEUlfI/AAAAAAAAAXc/zk_JYTcCi0IDVaQiu5ehe42H94Mv_zh8QCLcBGAs/s1600/Poster%2Bblack.png" group-title="Black Lightning",Black Lightning S01E04
+http://54.37.84.141:8000/movie/demoleague/champions/404.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Black Lightning S01E05" tvg-logo="https://1.bp.blogspot.com/-MFytaoQrgBA/WnDIZtEUlfI/AAAAAAAAAXc/zk_JYTcCi0IDVaQiu5ehe42H94Mv_zh8QCLcBGAs/s1600/Poster%2Bblack.png" group-title="Black Lightning",Black Lightning S01E05
+http://54.37.84.141:8000/movie/demoleague/champions/403.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Black Lightning S01E06" tvg-logo="https://1.bp.blogspot.com/-MFytaoQrgBA/WnDIZtEUlfI/AAAAAAAAAXc/zk_JYTcCi0IDVaQiu5ehe42H94Mv_zh8QCLcBGAs/s1600/Poster%2Bblack.png" group-title="Black Lightning",Black Lightning S01E06
+http://54.37.84.141:8000/movie/demoleague/champions/402.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Black Lightning S01E07" tvg-logo="https://1.bp.blogspot.com/-MFytaoQrgBA/WnDIZtEUlfI/AAAAAAAAAXc/zk_JYTcCi0IDVaQiu5ehe42H94Mv_zh8QCLcBGAs/s1600/Poster%2Bblack.png" group-title="Black Lightning",Black Lightning S01E07
+http://54.37.84.141:8000/movie/demoleague/champions/401.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Black Lightning S01E08" tvg-logo="https://1.bp.blogspot.com/-MFytaoQrgBA/WnDIZtEUlfI/AAAAAAAAAXc/zk_JYTcCi0IDVaQiu5ehe42H94Mv_zh8QCLcBGAs/s1600/Poster%2Bblack.png" group-title="Black Lightning",Black Lightning S01E08
+http://54.37.84.141:8000/movie/demoleague/champions/411.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Edha 1x1:La marca de la venganza" tvg-logo="https://pics.filmaffinity.com/edha_tv_series-520315240-large.jpg" group-title="EDHA",Edha 1x1:La marca de la venganza
+http://54.37.84.141:8000/movie/demoleague/champions/376.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Edha 1x2 Las costuras del pasado" tvg-logo="https://pics.filmaffinity.com/edha_tv_series-520315240-large.jpg" group-title="EDHA",Edha 1x2 Las costuras del pasado
+http://54.37.84.141:8000/movie/demoleague/champions/377.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Edha 1x3 El modelo perfecto" tvg-logo="https://pics.filmaffinity.com/edha_tv_series-520315240-large.jpg" group-title="EDHA",Edha 1x3 El modelo perfecto
+http://54.37.84.141:8000/movie/demoleague/champions/378.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Edha_S01_E04_El cuerpo revelado" tvg-logo="https://pics.filmaffinity.com/edha_tv_series-520315240-large.jpg" group-title="EDHA",Edha_S01_E04_El cuerpo revelado
+http://54.37.84.141:8000/movie/demoleague/champions/379.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Edha_S01_E05_La segunda piel" tvg-logo="https://pics.filmaffinity.com/edha_tv_series-520315240-large.jpg" group-title="EDHA",Edha_S01_E05_La segunda piel
+http://54.37.84.141:8000/movie/demoleague/champions/380.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Edha_S01_E06_La memoria del padre" tvg-logo="https://pics.filmaffinity.com/edha_tv_series-520315240-large.jpg" group-title="EDHA",Edha_S01_E06_La memoria del padre
+http://54.37.84.141:8000/movie/demoleague/champions/398.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Edha_S01XE07_La ruta de la verdad" tvg-logo="https://pics.filmaffinity.com/edha_tv_series-520315240-large.jpg" group-title="EDHA",Edha_S01XE07_La ruta de la verdad
+http://54.37.84.141:8000/movie/demoleague/champions/400.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Edha_S01_E08_El precio del silencio" tvg-logo="https://pics.filmaffinity.com/edha_tv_series-520315240-large.jpg" group-title="EDHA",Edha_S01_E08_El precio del silencio
+http://54.37.84.141:8000/movie/demoleague/champions/381.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="Edha_S01_E09_La coartada" tvg-logo="https://pics.filmaffinity.com/edha_tv_series-520315240-large.jpg" group-title="EDHA",Edha_S01_E09_La coartada
+http://54.37.84.141:8000/movie/demoleague/champions/462.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E01" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E01
+http://54.37.84.141:8000/movie/demoleague/champions/1021.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E02" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E02
+http://54.37.84.141:8000/movie/demoleague/champions/1035.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E03" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E03
+http://54.37.84.141:8000/movie/demoleague/champions/1036.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E04" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E04
+http://54.37.84.141:8000/movie/demoleague/champions/1037.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E05" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E05
+http://54.37.84.141:8000/movie/demoleague/champions/1038.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E06" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E06
+http://54.37.84.141:8000/movie/demoleague/champions/1039.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E07" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E07
+http://54.37.84.141:8000/movie/demoleague/champions/1040.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E08" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E08
+http://54.37.84.141:8000/movie/demoleague/champions/1041.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E09" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E09
+http://54.37.84.141:8000/movie/demoleague/champions/1042.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E10" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E10
+http://54.37.84.141:8000/movie/demoleague/champions/1043.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E11" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E11
+http://54.37.84.141:8000/movie/demoleague/champions/1044.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E012" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E012
+http://54.37.84.141:8000/movie/demoleague/champions/1045.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La Casa de Papel S01E013" tvg-logo="https://i.pinimg.com/736x/14/09/29/1409299f4a31ce051cb70daa5b5f4f2b.jpg" group-title="LA CASA DEL PAPEL",La Casa de Papel S01E013
+http://54.37.84.141:8000/movie/demoleague/champions/1046.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La casa de papel 2x4" tvg-logo="http://es.web.img2.acsta.net/pictures/17/05/03/08/45/266320.jpg" group-title="LA CASA DEL PAPEL",La casa de papel 2x4
+http://54.37.84.141:8000/movie/demoleague/champions/1054.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La casa de papel 2x5" tvg-logo="http://es.web.img2.acsta.net/pictures/17/05/03/08/45/266320.jpg" group-title="LA CASA DEL PAPEL",La casa de papel 2x5
+http://54.37.84.141:8000/movie/demoleague/champions/1055.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La casa de papel 2x7" tvg-logo="http://es.web.img2.acsta.net/pictures/17/05/03/08/45/266320.jpg" group-title="LA CASA DEL PAPEL",La casa de papel 2x7
+http://54.37.84.141:8000/movie/demoleague/champions/1056.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La casa de papel 2x8" tvg-logo="http://es.web.img2.acsta.net/pictures/17/05/03/08/45/266320.jpg" group-title="LA CASA DEL PAPEL",La casa de papel 2x8
+http://54.37.84.141:8000/movie/demoleague/champions/1057.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="La casa de papel 2x9" tvg-logo="http://es.web.img2.acsta.net/pictures/17/05/03/08/45/266320.jpg" group-title="LA CASA DEL PAPEL",La casa de papel 2x9
+http://54.37.84.141:8000/movie/demoleague/champions/1058.mkv
+
+#EXTINF:-1 tvg-ID="" tvg-name="x Miami Tv" tvg-logo="" group-title="ADULTOS",x Miami Tv
+http://54.37.84.141:8000/live/demoleague/champions/255.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="x Jasmin Tv" tvg-logo="" group-title="ADULTOS",x Jasmin Tv
+http://54.37.84.141:8000/live/demoleague/champions/254.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="x Hustler HD" tvg-logo="" group-title="ADULTOS",x Hustler HD
+http://54.37.84.141:8000/live/demoleague/champions/252.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="x Evil Angel" tvg-logo="" group-title="ADULTOS",x Evil Angel
+http://54.37.84.141:8000/live/demoleague/champions/250.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="x CentoXCento Tv" tvg-logo="" group-title="ADULTOS",x CentoXCento Tv
+http://54.37.84.141:8000/live/demoleague/champions/247.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="x Brazzers Tv Europe" tvg-logo="" group-title="ADULTOS",x Brazzers Tv Europe
+http://54.37.84.141:8000/live/demoleague/champions/246.ts
